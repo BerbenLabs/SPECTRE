@@ -1,0 +1,12 @@
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+*.Harness
+
+*.htm
+*.txt
+
+History
+Project\ Logs*
+*/ODB/odb/*
